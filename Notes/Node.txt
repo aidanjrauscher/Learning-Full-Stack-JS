@@ -1,0 +1,5 @@
+Intro to Node:
+- Node.js is a JS runtime environment, running the V8 JS engine. 
+- Runs in a single process, without creating a new thread for every request. 
+- ASYNCHRONOUS -> execution continues on another block while waiting for response
+- 
