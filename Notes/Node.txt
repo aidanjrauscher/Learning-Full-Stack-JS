@@ -2,4 +2,9 @@ Intro to Node:
 - Node.js is a JS runtime environment, running the V8 JS engine. 
 - Runs in a single process, without creating a new thread for every request. 
 - ASYNCHRONOUS -> execution continues on another block while waiting for response
-- 
+- Callback: a function passed as an argument to another function
+- No DOM (document, window) like in browser
+- 'nodemon app.js' instead of 'node app.js' for automatic restarts when file changes
+
+
+ 
